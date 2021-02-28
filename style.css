@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color:aqua;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section,.image-section2 {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style,.section-style2 {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
